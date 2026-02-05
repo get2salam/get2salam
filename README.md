@@ -1,7 +1,7 @@
 <h1 align="center">Abdul Salam</h1>
 
 <p align="center">
-  <strong>Software Developer × Legal Professional × AI Researcher</strong>
+  <strong>Software Developer • Legal Professional • AI Researcher</strong>
 </p>
 
 <p align="center">
@@ -21,37 +21,36 @@ I'm a London-based developer with a unique blend of **law** and **technology**. 
 
 **4 years** of software development experience. Now building AI-powered solutions for the legal industry.
 
-### 🔭 Featured Projects
+### 🚀 Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**qanoon-api**](https://github.com/get2salam/qanoon-api) | 🚀 REST API for Pakistani case law | FastAPI, Python |
-| [**qanoon-rag**](https://github.com/get2salam/qanoon-rag) | 🧠 RAG Q&A for case law | LangChain, ChromaDB |
-| [**qanoon-demo**](https://github.com/get2salam/qanoon-demo) | 🏛️ BM25 search demo | Streamlit |
-| [**legal-scraper**](https://github.com/get2salam/legal-scraper) | 📚 Case law & legislation scraper | Python, BeautifulSoup |
-| [**rag-legal-search**](https://github.com/get2salam/rag-legal-search) | 🔍 Semantic search engine | ChromaDB, LangChain |
-| [**legal-doc-analyzer**](https://github.com/get2salam/legal-doc-analyzer) | 📄 Contract analysis | spaCy, Transformers |
+| [**legal-api**](https://github.com/get2salam/legal-api) | ⚡ REST API for case law search | FastAPI, SQLAlchemy |
+| [**legal-scraper**](https://github.com/get2salam/legal-scraper) | 🕷️ Modular legal data scraping framework | Python, BeautifulSoup |
+| [**rag-legal-search**](https://github.com/get2salam/rag-legal-search) | 🔍 Semantic search with RAG | ChromaDB, LangChain |
+| [**legal-search-demo**](https://github.com/get2salam/legal-search-demo) | 🖥️ Interactive BM25 search UI | Streamlit |
+| [**legal-doc-analyzer**](https://github.com/get2salam/legal-doc-analyzer) | 📄 AI contract analysis | spaCy, Transformers |
 
-### 🎯 Building: Qanoon.com
+### 🎯 What I'm Building
 
-**AI-powered legal research platform for Pakistani lawyers** — making case law accessible, searchable, and intelligent.
+**AI-powered legal research tools** — making case law accessible, searchable, and intelligent.
 
-- 🏛️ Covers all major law reports: PLD, SCMR, CLC, MLD, PCrLJ, PTD, YLR
-- 🔍 Semantic search across 10,000+ judgments
-- 🤖 AI-assisted legal research and analysis
+- 🔍 Semantic search across legal databases
+- 🤖 AI-assisted document analysis
+- 📊 Legal analytics and citation networks
 
 ### 🛠️ Tech Stack
 
 ```
-Languages:    Python • TypeScript • JavaScript • SQL
-AI/ML:        PyTorch • Transformers • LangChain • spaCy • OpenAI
-Backend:      FastAPI • Node.js • Express • Django
-Frontend:     React • Next.js • Streamlit • Tailwind CSS
-Data:         PostgreSQL • Redis • Elasticsearch • ChromaDB
-DevOps:       Docker • GitHub Actions • AWS • Vercel
+Languages:    Python  TypeScript  JavaScript  SQL
+AI/ML:        PyTorch  Transformers  LangChain  spaCy  OpenAI
+Backend:      FastAPI  Node.js  Express  Django
+Frontend:     React  Next.js  Streamlit  Tailwind CSS
+Data:         PostgreSQL  Redis  Elasticsearch  ChromaDB
+DevOps:       Docker  GitHub Actions  AWS  Vercel
 ```
 
-### 📚 Education
+### 🎓 Education
 
 | Degree | Institution | Focus |
 |--------|-------------|-------|
@@ -59,7 +58,7 @@ DevOps:       Docker • GitHub Actions • AWS • Vercel
 | **LLM Commercial Law** | BPP University | Contract Law, Corporate |
 | **LLB Law** | London Metropolitan University | Common Law, Legal Research |
 
-### 🎯 Focus Areas
+### 🔬 Focus Areas
 
 - **Legal Tech / LawTech** — Automating legal research and document analysis
 - **NLP for Legal Text** — Entity extraction, summarization, semantic search
@@ -79,5 +78,5 @@ DevOps:       Docker • GitHub Actions • AWS • Vercel
 ---
 
 <p align="center">
-  <em>Building the future of legal technology, one commit at a time. 🇵🇰</em>
+  <em>Building the future of legal technology, one commit at a time. ⚖️</em>
 </p>
