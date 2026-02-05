@@ -28,7 +28,7 @@ I'm a London-based developer with a unique blend of **law** and **technology**. 
 | [**qanoon-api**](https://github.com/get2salam/qanoon-api) | 🚀 REST API for Pakistani case law | FastAPI, Python |
 | [**qanoon-rag**](https://github.com/get2salam/qanoon-rag) | 🧠 RAG Q&A for case law | LangChain, ChromaDB |
 | [**qanoon-demo**](https://github.com/get2salam/qanoon-demo) | 🏛️ BM25 search demo | Streamlit |
-| [**pakistan-legal-scraper**](https://github.com/get2salam/pakistan-legal-scraper) | 📚 Case law scraper (PLD, SCMR...) | Python, BeautifulSoup |
+| [**legal-scraper**](https://github.com/get2salam/legal-scraper) | 📚 Case law & legislation scraper | Python, BeautifulSoup |
 | [**rag-legal-search**](https://github.com/get2salam/rag-legal-search) | 🔍 Semantic search engine | ChromaDB, LangChain |
 | [**legal-doc-analyzer**](https://github.com/get2salam/legal-doc-analyzer) | 📄 Contract analysis | spaCy, Transformers |
 
