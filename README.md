@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdul-salam-6539aa11b/">
+  <a href="https://www.linkedin.com/in/abdulsalam-ai/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.upwork.com/freelancers/~017a6a583ee6ba698c">
@@ -21,12 +21,22 @@ I'm a London-based developer with a unique blend of **law** and **technology**. 
 
 **4 years** of software development experience. Now building AI-powered solutions for the legal industry.
 
-### 🔭 What I'm Building
+### 🔭 Featured Projects
 
-- 🏛️ **Legal AI Platform** — AI-powered legal research tools for Pakistani lawyers
-- 📄 **Legal Document Analyzer** — NLP pipeline for contract analysis and clause extraction
-- 🔍 **RAG Legal Search** — Semantic search engine for case law using retrieval-augmented generation
-- 📊 **Pakistan Legislation API** — Structured REST API for Pakistani statutes and case law
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**qanoon-demo**](https://github.com/get2salam/qanoon-demo) | 🏛️ Streamlit app for searching Pakistani case law with BM25 ranking | Python, Streamlit |
+| [**pakistan-legal-scraper**](https://github.com/get2salam/pakistan-legal-scraper) | 📚 Comprehensive scraper for case law + legislation (PLD, SCMR, CLC...) | Python, BeautifulSoup |
+| [**rag-legal-search**](https://github.com/get2salam/rag-legal-search) | 🔍 Semantic search engine using RAG + vector embeddings | Python, ChromaDB, LangChain |
+| [**legal-doc-analyzer**](https://github.com/get2salam/legal-doc-analyzer) | 📄 AI-powered contract analysis and clause extraction | Python, spaCy, Transformers |
+
+### 🎯 Building: Qanoon.com
+
+**AI-powered legal research platform for Pakistani lawyers** — making case law accessible, searchable, and intelligent.
+
+- 🏛️ Covers all major law reports: PLD, SCMR, CLC, MLD, PCrLJ, PTD, YLR
+- 🔍 Semantic search across 10,000+ judgments
+- 🤖 AI-assisted legal research and analysis
 
 ### 🛠️ Tech Stack
 
@@ -34,7 +44,7 @@ I'm a London-based developer with a unique blend of **law** and **technology**. 
 Languages:    Python • TypeScript • JavaScript • SQL
 AI/ML:        PyTorch • Transformers • LangChain • spaCy • OpenAI
 Backend:      FastAPI • Node.js • Express • Django
-Frontend:     React • Next.js • Tailwind CSS
+Frontend:     React • Next.js • Streamlit • Tailwind CSS
 Data:         PostgreSQL • Redis • Elasticsearch • ChromaDB
 DevOps:       Docker • GitHub Actions • AWS • Vercel
 ```
@@ -67,5 +77,5 @@ DevOps:       Docker • GitHub Actions • AWS • Vercel
 ---
 
 <p align="center">
-  <em>Building the future of legal technology, one commit at a time.</em>
+  <em>Building the future of legal technology, one commit at a time. 🇵🇰</em>
 </p>
