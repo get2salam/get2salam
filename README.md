@@ -25,10 +25,11 @@ I'm a London-based developer with a unique blend of **law** and **technology**. 
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**qanoon-demo**](https://github.com/get2salam/qanoon-demo) | 🏛️ Streamlit app for searching Pakistani case law with BM25 ranking | Python, Streamlit |
-| [**pakistan-legal-scraper**](https://github.com/get2salam/pakistan-legal-scraper) | 📚 Comprehensive scraper for case law + legislation (PLD, SCMR, CLC...) | Python, BeautifulSoup |
-| [**rag-legal-search**](https://github.com/get2salam/rag-legal-search) | 🔍 Semantic search engine using RAG + vector embeddings | Python, ChromaDB, LangChain |
-| [**legal-doc-analyzer**](https://github.com/get2salam/legal-doc-analyzer) | 📄 AI-powered contract analysis and clause extraction | Python, spaCy, Transformers |
+| [**qanoon-rag**](https://github.com/get2salam/qanoon-rag) | 🧠 RAG system for Pakistani case law Q&A | LangChain, ChromaDB, Streamlit |
+| [**qanoon-demo**](https://github.com/get2salam/qanoon-demo) | 🏛️ BM25 search demo for Pakistani case law | Python, Streamlit |
+| [**pakistan-legal-scraper**](https://github.com/get2salam/pakistan-legal-scraper) | 📚 Case law + legislation scraper (PLD, SCMR...) | Python, BeautifulSoup |
+| [**rag-legal-search**](https://github.com/get2salam/rag-legal-search) | 🔍 Semantic search with vector embeddings | Python, ChromaDB, LangChain |
+| [**legal-doc-analyzer**](https://github.com/get2salam/legal-doc-analyzer) | 📄 AI contract analysis + clause extraction | Python, spaCy, Transformers |
 
 ### 🎯 Building: Qanoon.com
 
