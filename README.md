@@ -31,11 +31,29 @@ That usually means web apps, internal tools, automations, APIs, and data-heavy w
 
 ## Selected work
 
-| Project | What it does | Stack |
-|---|---|---|
-| [timesheet-invoice](https://github.com/get2salam/timesheet-invoice) | Turns shift logs into export-ready invoices | Next.js, TypeScript |
-| [legal-api](https://github.com/get2salam/legal-api) | API-first backend for structured document search | FastAPI, Python |
-| [legal-scraper](https://github.com/get2salam/legal-scraper) | Scraping pipeline for structured record collection | Python, BeautifulSoup |
+### [timesheet-invoice](https://github.com/get2salam/timesheet-invoice)
+A contractor invoicing workflow that turns shift logs into client-ready exports.
+
+**Highlights**
+- manual and OCR-assisted shift capture
+- configurable invoice profiles and rates
+- PDF, Excel, and CSV exports
+
+### [legal-api](https://github.com/get2salam/legal-api)
+An API-first backend for document search and structured record retrieval.
+
+**Highlights**
+- clean backend architecture
+- search-oriented endpoints
+- built for real data rather than toy examples
+
+### [legal-scraper](https://github.com/get2salam/legal-scraper)
+A scraping pipeline focused on collecting, cleaning, and structuring document-heavy sources.
+
+**Highlights**
+- modular scraping flow
+- practical parsing logic
+- designed for messy source material
 
 ## How I like to work
 
