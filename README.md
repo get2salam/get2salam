@@ -57,6 +57,8 @@ A scraping pipeline focused on collecting, cleaning, and structuring document-he
 
 ## How I like to work
 
+![Workflow principles](./assets/workflow-principles.svg)
+
 - ship useful things quickly
 - keep interfaces simple
 - prefer clarity over cleverness

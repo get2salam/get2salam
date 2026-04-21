@@ -1,0 +1,15 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="220" rx="24" fill="#F8FAFC"/>
+  <rect x="40" y="36" width="250" height="148" rx="18" fill="#FFFFFF" stroke="#CBD5E1"/>
+  <rect x="330" y="36" width="250" height="148" rx="18" fill="#FFFFFF" stroke="#CBD5E1"/>
+  <rect x="620" y="36" width="250" height="148" rx="18" fill="#FFFFFF" stroke="#CBD5E1"/>
+  <rect x="910" y="36" width="250" height="148" rx="18" fill="#FFFFFF" stroke="#CBD5E1"/>
+  <text x="68" y="85" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Build fast</text>
+  <text x="68" y="120" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="18">Start useful, then refine.</text>
+  <text x="358" y="85" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Keep it clear</text>
+  <text x="358" y="120" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="18">Prefer readable systems.</text>
+  <text x="648" y="85" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Ship demos</text>
+  <text x="648" y="120" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="18">Make projects easy to show.</text>
+  <text x="938" y="85" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Polish the edges</text>
+  <text x="938" y="120" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="18">Docs and UX matter too.</text>
+</svg>
