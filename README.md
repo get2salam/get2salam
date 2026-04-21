@@ -1,3 +1,5 @@
+![Profile banner](./assets/profile-banner.svg)
+
 # Abdul Salam
 
 **Software developer building practical tools for operations, research, and business workflows.**

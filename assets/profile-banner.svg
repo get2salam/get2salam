@@ -1,0 +1,18 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="320" rx="24" fill="#0F172A"/>
+  <rect x="32" y="32" width="1136" height="256" rx="20" fill="url(#paint0_linear)"/>
+  <circle cx="985" cy="88" r="56" fill="#0F172A" fill-opacity="0.18"/>
+  <circle cx="1060" cy="150" r="84" fill="#0F172A" fill-opacity="0.1"/>
+  <circle cx="930" cy="220" r="42" fill="#0F172A" fill-opacity="0.16"/>
+  <text x="84" y="122" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">Abdul Salam</text>
+  <text x="84" y="164" fill="#DBEAFE" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Software developer building practical products and business workflows</text>
+  <text x="84" y="212" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="20">Web apps • APIs • automation • data pipelines • MVP delivery</text>
+  <rect x="84" y="236" width="184" height="32" rx="16" fill="#0F172A" fill-opacity="0.22"/>
+  <text x="108" y="257" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Open to useful builds</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="71" y1="51" x2="1133" y2="279" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1D4ED8"/>
+      <stop offset="1" stop-color="#0EA5E9"/>
+    </linearGradient>
+  </defs>
+</svg>
