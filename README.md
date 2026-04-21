@@ -98,6 +98,16 @@ Right now I am focused on building stronger public proof of work:
 - better documentation
 - more visible GitHub consistency
 
+## Best fit work
+
+I am especially useful when a project needs:
+
+- a fast MVP that still feels professional
+- a boring but important workflow made easier
+- a backend or internal tool that needs structure
+- a data flow that has to survive messy inputs
+- a repo that needs better presentation before clients see it
+
 ## Contact
 
 If you want help building a useful internal tool, a data workflow, or a polished MVP, feel free to reach out.
