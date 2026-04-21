@@ -108,9 +108,22 @@ I am especially useful when a project needs:
 - a data flow that has to survive messy inputs
 - a repo that needs better presentation before clients see it
 
+## Collaboration
+
+I am open to:
+
+- freelance builds
+- internal tools and operations dashboards
+- MVP development
+- scraping and backend-heavy delivery work
+- product cleanup before launch or client demos
+
 ## Contact
 
 If you want help building a useful internal tool, a data workflow, or a polished MVP, feel free to reach out.
+
+- LinkedIn: <https://www.linkedin.com/in/abdulsalam-ai/>
+- Upwork: <https://www.upwork.com/freelancers/~017a6a583ee6ba698c>
 
 ---
 
