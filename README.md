@@ -9,9 +9,16 @@ That usually means web apps, internal tools, automations, APIs, and data-heavy w
 
 ## Find me online
 
-- LinkedIn: <https://www.linkedin.com/in/abdulsalam-ai/>
-- Upwork: <https://www.upwork.com/freelancers/~017a6a583ee6ba698c>
-- GitHub: <https://github.com/get2salam>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulsalam-ai/)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~017a6a583ee6ba698c)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/get2salam)
+
+## Quick snapshot
+
+- based in London
+- available for freelance product builds and internal tools
+- strongest in Python, TypeScript, APIs, and product polishing
+- happiest when turning scattered workflows into something clean and repeatable
 
 ## What I build
 
