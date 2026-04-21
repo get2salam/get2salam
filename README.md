@@ -127,4 +127,8 @@ If you want help building a useful internal tool, a data workflow, or a polished
 
 ---
 
+## GitHub activity
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=get2salam&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=get2salam&layout=compact&theme=github_dark&hide_border=true)
