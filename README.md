@@ -4,8 +4,8 @@
 
 **Software developer building practical tools for operations, research, and business workflows.**
 
-I like turning messy real-world processes into simple products that people can actually use.
-That usually means web apps, internal tools, automations, APIs, and data-heavy workflows.
+I like turning messy real-world processes into simple products people can actually use.
+Most of my work ends up around web apps, internal tools, automations, APIs, and data-heavy workflows.
 
 ## Find me online
 
@@ -120,7 +120,7 @@ I am open to:
 
 ## Contact
 
-If you want help building a useful internal tool, a data workflow, or a polished MVP, feel free to reach out.
+If you need a useful internal tool, a solid data workflow, or a polished MVP, feel free to reach out.
 
 - LinkedIn: <https://www.linkedin.com/in/abdulsalam-ai/>
 - Upwork: <https://www.upwork.com/freelancers/~017a6a583ee6ba698c>
